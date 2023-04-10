@@ -44,7 +44,11 @@ Database:
 Hosted with:
 
 ***
-Collaborators
+
+Collaborators:
+
+# Sebastian Antonucci
+
 <div id="badges">
     <a href="https://www.linkedin.com/in/sebastian-antonucci-014101109/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -53,3 +57,74 @@ Collaborators
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
+
+# Marlee Metcalf
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/marlee-metcalf/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/metcalfmarlee">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+
+# Mohammed Rahman
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/mohammed-rahman-b81a72146/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/morah93">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+
+# Melody 
+
+* Don't know last name LOL and need your linkedIn URL
+
+<div id="badges">
+    <a href=" add ">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/melody-o">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+</div>
+
+***
+
+# WIKI
+
+***
+
+[USER STORIES](https://github.com/morah93/ProjectX/wiki/User-Stories)
+
+Agile framework to visualize what the workflow should be.
+
+***
+
+[DATABASE SCHEMA](https://github.com/morah93/ProjectX/wiki/Schema)
+
+SQlite3 database schema
+
+***
+
+[WIRE FRAME](https://github.com/morah93/ProjectX/wiki/Wireframe)
+
+A visualization of what the app will look like.
+
+***
+
+[FEATURE LIST](https://github.com/morah93/ProjectX/wiki/MVP-FEATURES-LIST)
+
+List of the functional features of the app.
+
+***
+
+[API DOCUMENTATION]()
+
+Documentation of the API routes used to make requests to the database
+
+***
